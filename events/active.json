@@ -1,0 +1,44 @@
+{
+  "slug": "vista-events-and-catering-kozhikode",
+  "name": "Vista Events & Catering",
+  "shortName": "Vista",
+  "descriptor": "Catering & Events",
+  "address": "Kozhikode, Chelannur, Keralam 673585",
+  "area": "Chelannur",
+  "city": "Kozhikode",
+  "district": "Kozhikode",
+  "region": "Kerala",
+  "postalCode": "673585",
+  "geo": {
+    "lat": 11.3681685,
+    "lng": 75.8283221
+  },
+  "mapsLink": "https://maps.google.com/?cid=11012667443411286037",
+  "phone": "+91 83048 86601",
+  "whatsapp": "918304886601",
+  "hours": "Open 24 hours · all days",
+  "opens": "00:00",
+  "closes": "23:59",
+  "rating": 5,
+  "reviewCount": 15,
+  "reviews": [
+    {
+      "name": "Yaser arafath",
+      "rating": 5,
+      "quote": "Vista Event Management is exceptional at creating unforgettable events with flawless execution and attention to detail. Their team is professional, creative, and dedicated to personalizing every occasion to match the client’s vision. They handle challenges seamlessly, ensuring stress-free, high-quality experiences."
+    },
+    {
+      "name": "Ashiq K",
+      "rating": 5,
+      "quote": "Great work and good taste 😋👍🏻"
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp",
+    "gallery/05.webp"
+  ],
+  "url": "https://vista-events-and-catering-kozhikode.vercel.app"
+}
